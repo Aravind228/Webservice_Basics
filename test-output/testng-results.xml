@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8962" started-at="2020-11-17T06:37:01Z" finished-at="2020-11-17T06:37:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8962" started-at="2020-11-17T06:37:01Z" finished-at="2020-11-17T06:37:10Z">
+      <class name="com.Basics.API_1_E2E">
+        <test-method status="PASS" signature="End_2_end()[pri:0, instance:com.Basics.API_1_E2E@13ad2d6]" name="End_2_end" duration-ms="8930" started-at="2020-11-17T06:37:01Z" finished-at="2020-11-17T06:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End_2_end -->
+      </class> <!-- com.Basics.API_1_E2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
