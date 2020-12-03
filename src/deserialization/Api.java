@@ -1,5 +1,5 @@
 package deserialization;
-
+//This class is for deserialization in java
 public class Api {
 	private String courseTitle;
 	private String price;
