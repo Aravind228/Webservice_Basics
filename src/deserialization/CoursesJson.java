@@ -1,5 +1,6 @@
 package deserialization;
 //This file is for coursejson
+//This file is a part of deserialization
 import java.util.List;
 
 public class CoursesJson {
