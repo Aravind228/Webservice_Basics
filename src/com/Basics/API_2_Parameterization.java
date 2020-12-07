@@ -11,7 +11,7 @@ import com.Files.ReUsableClass;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
-
+//This is API 2 class
 
 public class API_2_Parameterization {
 	
